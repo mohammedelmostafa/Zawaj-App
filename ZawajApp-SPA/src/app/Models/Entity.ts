@@ -1,0 +1,15 @@
+export interface Entity {
+  DATAID:string,
+  VERSIONNUM:string,
+  FIRST_NAME:string,
+  UN_LIST_TYPE:string,
+  REFERENCE_NUMBER:string,
+  LISTED_ON:string,
+  COMMENTS1:string,
+  LIST_TYPE:string,
+  LAST_DAY_UPDATED:string,
+  ENTITY_ALIAS:string,
+  ENTITY_ADDRESS:string,
+  SORT_KEY:string,
+  SORT_KEY_LAST_MOD:string,
+}
